@@ -1,3 +1,3 @@
-# BST-Visualizator
+# BST-Visualizer
 
-Binary Search Tree Visualizator write in Python using Turtle graphics. Only insert operation is implemented.
+Binary Search Tree Visualizer write in Python using Turtle graphics. Only insert operation is implemented.
